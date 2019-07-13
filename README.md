@@ -89,9 +89,7 @@ You might also be interested in the larger umbrella project [UPGRADING.md](https
 ## Installation
 
 ```
-$ npm i --save @fortawesome/fontawesome-svg-core
-$ npm i --save @fortawesome/free-solid-svg-icons
-$ npm i --save @fortawesome/vue-fontawesome
+$ npm i --save @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/vue-fontawesome
 ```
 
 ## Add more styles or Pro icons
@@ -102,16 +100,13 @@ version 4 to 5 we have a limited number of Regular icons available.
 **Visit [fontawesome.com/icons](https://fontawesome.com/icons) to search for free and Pro icons**
 
 ```
-$ npm i --save @fortawesome/free-brands-svg-icons
-$ npm i --save @fortawesome/free-regular-svg-icons
+$ npm i --save @fortawesome/free-brands-svg-icons @fortawesome/free-regular-svg-icons
 ```
 
 If you are a [Font Awesome Pro](https://fontawesome.com/pro) subscriber you can install Pro packages.
 
 ```
-$ npm i --save @fortawesome/pro-solid-svg-icons
-$ npm i --save @fortawesome/pro-regular-svg-icons
-$ npm i --save @fortawesome/pro-light-svg-icons
+$ npm i --save @fortawesome/pro-solid-svg-icons @fortawesome/pro-regular-svg-icons @fortawesome/pro-light-svg-icons
 ```
 
 **Duotone icons are currently in pre-release and are coming soon to this component.**
